@@ -1,6 +1,6 @@
 <h1>Francis Penir PMP, PSM, CC <br/> <a href="https://www.linkedin.com/in/francis-penir/">Project Manager, Cloud Computing, & Cybersecurity Professional</a></h1>
 
-<h2>📊 Project Management Portfolio:</h2>
+<h2>📊 Project Management & Scrum Portfolio:</h2>
 
 - <b>Project Roadmap</b>
   - [Building a Personal Website](https://github.com/users/francis-penir/projects/2)
