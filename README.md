@@ -29,7 +29,7 @@ I am a Project Manager with a specialization in Cloud Computing and Cybersecurit
 ### 🧑🏻‍💻 Cybersecurity
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab Tutorial](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Cybersecurity Program Design: Rest Assured Case Study](https://docs.google.com/document/d/1wsSK29YEzHoI8g7vMNxRLar9QqflR4WBQl-oCRd3lEo/edit?usp=sharing)
 
 ### 🏅 Certifications
 
