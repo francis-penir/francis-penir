@@ -2,12 +2,12 @@
 
 I am a Project Manager with a specialization in Cloud Computing and Cybersecurity. My professional focus lies in leveraging technology to address complex challenges effectively. With a commitment to excellence, I navigate the intricate landscape of cloud deployments and cybersecurity measures with precision and expertise. Feel free to explore my repositories to gain insights into my approach to problem-solving and technological innovation.
 
-### 📊 Project Management & Scrum Portfolio
+### 📊 Project Management & Scrum
 
 - <b>Project Roadmap</b>
   - [Building a Personal Website](https://github.com/users/francis-penir/projects/2)
 
-### ☁️ Cloud Computing Portfolio
+### ☁️ Cloud Computing
 <div>
   
 <img src="https://img.shields.io/badge/-VMware-0078D4?style=for-the-badge&logo=VMware&logoColor=white" />
@@ -20,7 +20,7 @@ I am a Project Manager with a specialization in Cloud Computing and Cybersecurit
 
 </div>
 
-### 🧑🏻‍💻 Cybersecurity Portfolio
+### 🧑🏻‍💻 Cybersecurity
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab Tutorial](https://github.com/joshmadakor1/Algorithms-Practice)
