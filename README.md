@@ -15,14 +15,13 @@ I am a Project Manager with a specialization in Cloud Computing and Cybersecurit
   - [SMART Goals: Office Green](https://docs.google.com/document/d/1Ni7rSvSLXsHEdc1ZID6-wgcnvfl_ww-DKp3NU97GMLM/edit?usp=sharing)
  
 ### ☁️ Cloud Computing
+- <b>Cloud</b>
+  - [On-prem IP Telephony Migration to Skype for Business](https://github.com/users/francis-penir/projects/2)
 <div>
   
 <img src="https://img.shields.io/badge/-VMware-0078D4?style=for-the-badge&logo=VMware&logoColor=white" />
-
 <img src="https://img.shields.io/badge/-Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
 <img src="https://img.shields.io/badge/-Citrix-1769FF?style=for-the-badge&logo=Citrix&logoColor=white" />
-
 <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
 </div>
