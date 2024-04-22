@@ -1,6 +1,6 @@
 <h1>Francis Penir PMP, PSM, CC <br/> <a href="https://www.linkedin.com/in/francis-penir/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></h1>
 
-I'm a Project Manager, Cloud Computing, and Cybersecurity Professional with a profound interest in technology and a dedication to solving complex problems.
+I am a Project Manager with a specialization in Cloud Computing and Cybersecurity. My professional focus lies in leveraging technology to address complex challenges effectively. With a commitment to excellence, I navigate the intricate landscape of cloud deployments and cybersecurity measures with precision and expertise. Feel free to explore my repositories to gain insights into my approach to problem-solving and technological innovation.
 
 ### 📊 Project Management & Scrum Portfolio
 
