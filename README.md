@@ -6,7 +6,8 @@ I am a Project Manager with a specialization in Cloud Computing and Cybersecurit
 
 - <b>Project Roadmap</b>
   - [Kanban: Building a Personal Website](https://github.com/users/francis-penir/projects/2)
-
+  - [Project Charter: Sauce & Spoon](https://docs.google.com/document/d/1qbCvms0JqD7ecJ-4p6uC8npesYgPsxJ-VULnfswgjzs/edit?usp=sharing&resourcekey=0-cr3_GpYn0wd4FY2VFTMFLg)
+ 
 ### ☁️ Cloud Computing
 <div>
   
