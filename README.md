@@ -10,7 +10,8 @@ I am a Project Manager with a specialization in Cloud Computing and Cybersecurit
 - <b>Capstone Project</b>
   - [Project Charter: Sauce & Spoon](https://docs.google.com/document/d/1qbCvms0JqD7ecJ-4p6uC8npesYgPsxJ-VULnfswgjzs/edit?usp=sharing&resourcekey=0-cr3_GpYn0wd4FY2VFTMFLg)
   - [Escalation Email: Plant Pals](https://docs.google.com/document/d/1cBhWc0icNVuaMapoWWfWWioy8YDjREM6qg00Bjxs7-4/edit?usp=sharing)
-  - [Sprint Retrospective Email: Virtual Verde](https://docs.google.com/document/d/1ZAzCwx3-kr-RMqbsbo-f0wkVYlABpbV_Tx2PVxopeUw/edit?usp=sharing)
+  - [Sprint Retrospective: Virtual Verde](https://docs.google.com/document/d/1ZAzCwx3-kr-RMqbsbo-f0wkVYlABpbV_Tx2PVxopeUw/edit?usp=sharing)
+  - [Release Plan: Virtual Verde](https://docs.google.com/document/d/1gyMXGY-lLA6P7TiuOjyvVQVb0mv-_kjshu4_Pl4g6sc/edit?usp=sharing)
  
 ### ☁️ Cloud Computing
 <div>
