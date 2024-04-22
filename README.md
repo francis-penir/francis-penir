@@ -1,4 +1,4 @@
-<h1>Francis Penir PMP, PSM, CC <br/> <a href="https://www.linkedin.com/in/francis-penir/">Project Manager, Cloud Computing, & Cybersecurity Professional</a></h1>
+<h1>Francis Penir PMP, PSM, CC <br/> <a href="https://www.linkedin.com/in/francis-penir/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></h1>
 
 <h2>📊 Project Management & Scrum Portfolio:</h2>
 
