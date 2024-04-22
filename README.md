@@ -12,6 +12,7 @@ I am a Project Manager with a specialization in Cloud Computing and Cybersecurit
   - [Urgent Escalation: Plant Pals](https://docs.google.com/document/d/1cBhWc0icNVuaMapoWWfWWioy8YDjREM6qg00Bjxs7-4/edit?usp=sharing)
   - [Sprint Retrospective: Virtual Verde](https://docs.google.com/document/d/1ZAzCwx3-kr-RMqbsbo-f0wkVYlABpbV_Tx2PVxopeUw/edit?usp=sharing)
   - [Release Plan: Virtual Verde](https://docs.google.com/document/d/1gyMXGY-lLA6P7TiuOjyvVQVb0mv-_kjshu4_Pl4g6sc/edit?usp=sharing)
+  - [SMART Goals: Office Green](https://docs.google.com/document/d/1Ni7rSvSLXsHEdc1ZID6-wgcnvfl_ww-DKp3NU97GMLM/edit?usp=sharing)
  
 ### ☁️ Cloud Computing
 <div>
