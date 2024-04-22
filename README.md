@@ -14,6 +14,7 @@ I am a Project Manager with a specialization in Cloud Computing and Cybersecurit
   - [Release Plan: Virtual Verde](https://docs.google.com/document/d/1gyMXGY-lLA6P7TiuOjyvVQVb0mv-_kjshu4_Pl4g6sc/edit?usp=sharing)
   - [SMART Goals: Office Green](https://docs.google.com/document/d/1Ni7rSvSLXsHEdc1ZID6-wgcnvfl_ww-DKp3NU97GMLM/edit?usp=sharing)
   - [Project Closeout Report: Ops & Training Plan](https://docs.google.com/document/d/1hL0Z3ineez7LRDbAGNvjdvbiq6A8rriRLbp0Zx_8t08/edit?usp=sharing&resourcekey=0-9vCXuFHupKghdCCsaixgOQ)
+  - [Risk Management Plan: Office Green](https://docs.google.com/document/d/1anNknRWKylGK6Lfx48LYPoKQv72rtbcXx0uCW9uJ3bI/edit?usp=sharing)
  
 ### ☁️ Cloud Computing
 - <b>Cloud</b>
