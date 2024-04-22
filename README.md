@@ -1,4 +1,4 @@
-<h1>Hi, I'm Francis Penir PMP, PSM, CC <br/> <a href="https://www.linkedin.com/in/francis-penir/">Project Manager, Cloud Computing, & Cybersecurity Professional</a></h1>
+<h1>Francis Penir PMP, PSM, CC <br/> <a href="https://www.linkedin.com/in/francis-penir/">Project Manager, Cloud Computing, & Cybersecurity Professional</a></h1>
 
 <h2>🧑🏻‍💻 Project Management Portfolio:</h2>
 
