@@ -26,7 +26,7 @@ I am a Project Manager with a specialization in Cloud Computing and Cybersecurit
 
 </div>
 
-### 🧑🏻‍💻 Cybersecurity
+### 🧑🏻‍💻 Cybersecurity Management
 
 - <b>Cybersecurity Program Design</b>
   - [Rest Assured Case Study](https://docs.google.com/document/d/1wsSK29YEzHoI8g7vMNxRLar9QqflR4WBQl-oCRd3lEo/edit?usp=sharing)
