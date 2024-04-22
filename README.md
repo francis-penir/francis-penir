@@ -5,7 +5,7 @@ I am a Project Manager with a specialization in Cloud Computing and Cybersecurit
 ### 📊 Project Management & Scrum
 
 - <b>Project Roadmap</b>
-  - [Building a Personal Website](https://github.com/users/francis-penir/projects/2)
+  - [Kanban: Building a Personal Website](https://github.com/users/francis-penir/projects/2)
 
 ### ☁️ Cloud Computing
 <div>
