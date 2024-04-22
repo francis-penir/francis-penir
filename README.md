@@ -16,7 +16,7 @@ I am a Project Manager with a specialization in Cloud Computing and Cybersecurit
  
 ### ☁️ Cloud Computing
 - <b>Cloud</b>
-  - [On-prem IP Telephony Migration to Skype for Business](https://github.com/users/francis-penir/projects/2)
+  - [On-prem IP Telephony Migration to Skype for Business](https://docs.google.com/document/d/1VXv1O5-lf-_TGdhDcRhAaScRV64OJGcNGYg-LY8Q9sU/edit?usp=sharing)
 <div>
   
 <img src="https://img.shields.io/badge/-VMware-0078D4?style=for-the-badge&logo=VMware&logoColor=white" />
