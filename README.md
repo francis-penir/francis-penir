@@ -18,7 +18,7 @@ I'm a Project Manager, Cloud Computing, and Cybersecurity Professional with a pr
 - [Professional Scrum Master (PSM I), Scrum.org](https://www.credly.com/badges/fc5f102b-f174-4675-88ff-baf98ae5d4e4/public_url)
 - [Certified in Cybersecurity (CC), ISC2](https://www.credly.com/badges/a0fcf802-a2bf-4460-9d05-5daa8bd6464f/public_url)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
