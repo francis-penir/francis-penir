@@ -3,7 +3,7 @@
 <h2>📊 Project Management Portfolio:</h2>
 
 - <b>Project Roadmap</b>
-  - [Active Directory Home Lab Tutorial](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Building a Personal Website](https://github.com/users/francis-penir/projects/2)
 
 <h2>🧑🏻‍💻 Cybersecurity Portfolio:</h2>
 
