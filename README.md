@@ -34,7 +34,7 @@ I am a Project Manager with a specialization in Cloud Computing and Cybersecurit
 - <b>Cybersecurity Program Design</b>
   - [Rest Assured Case Study](https://docs.google.com/document/d/1wsSK29YEzHoI8g7vMNxRLar9QqflR4WBQl-oCRd3lEo/edit?usp=sharing)
   - [PenTest: Rules of Engagement](https://docs.google.com/document/d/1j93bt6MnAK8jUw7OVdEb3VE-MCz3uqPcnOyquDGWWqY/edit#heading=h.lntg56ljm653)
-  - [PenTest: Mission Plan](https://docs.google.com/document/d/1j93bt6MnAK8jUw7OVdEb3VE-MCz3uqPcnOyquDGWWqY/edit#heading=h.lntg56ljm653)
+  - [PenTest: Mission Plan](https://docs.google.com/document/d/1uK814iDM4Jxt9-xehDKLQ09ltPErdD_3HtcAvG0TA7I/edit#heading=h.lntg56ljm653)
   - [PenTest: Operations Plan](https://docs.google.com/document/d/1VNBKHj8Z3R8iaxzhynd8KmZjT1wX9Gb8b_VE76Tkgr8/edit#heading=h.lntg56ljm653)
   - PenTest: Mission Plan](https://docs.google.com/document/d/1j93bt6MnAK8jUw7OVdEb3VE-MCz3uqPcnOyquDGWWqY/edit#heading=h.lntg56ljm653)
 
