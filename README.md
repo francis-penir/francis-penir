@@ -7,7 +7,7 @@ I am a Project Manager with a specialization in Cloud Computing and Cybersecurit
 - <b>Scrum</b>
   - [Kanban: Building a Personal Website](https://github.com/users/francis-penir/projects/2)
  
-- <b>Capstone Project</b>
+- <b>Capstone: Google Project Management</b>
   - [Project Charter: Sauce & Spoon](https://docs.google.com/document/d/1qbCvms0JqD7ecJ-4p6uC8npesYgPsxJ-VULnfswgjzs/edit?usp=sharing&resourcekey=0-cr3_GpYn0wd4FY2VFTMFLg)
   - [Urgent Escalation: Plant Pals](https://docs.google.com/document/d/1cBhWc0icNVuaMapoWWfWWioy8YDjREM6qg00Bjxs7-4/edit?usp=sharing)
   - [Sprint Retrospective: Virtual Verde](https://docs.google.com/document/d/1ZAzCwx3-kr-RMqbsbo-f0wkVYlABpbV_Tx2PVxopeUw/edit?usp=sharing)
