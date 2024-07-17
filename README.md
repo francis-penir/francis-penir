@@ -40,9 +40,9 @@ I am a Project Manager with a specialization in Cloud Computing and Cybersecurit
 
 ### 🏅 Certifications
 
-- [Project Management Professional (PMP), PMI](https://www.credly.com/badges/7f691464-f58e-4cda-b001-871870ecb398/public_url)
+- [Project Management Professional (PMP), PMI.org](https://www.credly.com/badges/7f691464-f58e-4cda-b001-871870ecb398/public_url)
 - [Professional Scrum Master (PSM I), Scrum.org](https://www.credly.com/badges/fc5f102b-f174-4675-88ff-baf98ae5d4e4/public_url)
-- [Certified in Cybersecurity (CC), ISC2](https://www.credly.com/badges/a0fcf802-a2bf-4460-9d05-5daa8bd6464f/public_url)
+- [Certified in Cybersecurity (CC), ISC2.org](https://www.credly.com/badges/a0fcf802-a2bf-4460-9d05-5daa8bd6464f/public_url)
 
 ### 📺 YouTube Videos
 
