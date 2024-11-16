@@ -2,6 +2,15 @@
 
 I am a Cloud Security and Cyber Defense expert and my professional focus lies in leveraging technology to address complex challenges effectively. With a commitment to excellence, I navigate the intricate landscape of cloud deployments and cybersecurity measures with precision and expertise. Feel free to explore my repositories to gain insights into my approach to problem-solving and technological innovation.
 
+### 🧑🏻‍💻 Cybersecurity Management
+
+- <b>Cybersecurity Program Design</b>
+  - [Rest Assured Case Study](https://docs.google.com/document/d/1wsSK29YEzHoI8g7vMNxRLar9QqflR4WBQl-oCRd3lEo/edit?usp=sharing)
+  - [PenTest: Rules of Engagement](https://docs.google.com/document/d/1j93bt6MnAK8jUw7OVdEb3VE-MCz3uqPcnOyquDGWWqY/edit#heading=h.lntg56ljm653)
+  - [PenTest: Mission Plan](https://docs.google.com/document/d/1uK814iDM4Jxt9-xehDKLQ09ltPErdD_3HtcAvG0TA7I/edit#heading=h.lntg56ljm653)
+  - [PenTest: Operations Plan](https://docs.google.com/document/d/1VNBKHj8Z3R8iaxzhynd8KmZjT1wX9Gb8b_VE76Tkgr8/edit#heading=h.lntg56ljm653)
+  - [PenTest: Resource Plan](https://docs.google.com/document/d/1xFfB-N77_TQr3EIhaebo_2Eoz5i8YmwLHkKlSewy-ck/edit#heading=h.lntg56ljm653)
+
 ### 📊 Project Management & Scrum
 
 - <b>Scrum</b>
@@ -29,21 +38,15 @@ I am a Cloud Security and Cyber Defense expert and my professional focus lies in
 
 </div>
 
-### 🧑🏻‍💻 Cybersecurity Management
 
-- <b>Cybersecurity Program Design</b>
-  - [Rest Assured Case Study](https://docs.google.com/document/d/1wsSK29YEzHoI8g7vMNxRLar9QqflR4WBQl-oCRd3lEo/edit?usp=sharing)
-  - [PenTest: Rules of Engagement](https://docs.google.com/document/d/1j93bt6MnAK8jUw7OVdEb3VE-MCz3uqPcnOyquDGWWqY/edit#heading=h.lntg56ljm653)
-  - [PenTest: Mission Plan](https://docs.google.com/document/d/1uK814iDM4Jxt9-xehDKLQ09ltPErdD_3HtcAvG0TA7I/edit#heading=h.lntg56ljm653)
-  - [PenTest: Operations Plan](https://docs.google.com/document/d/1VNBKHj8Z3R8iaxzhynd8KmZjT1wX9Gb8b_VE76Tkgr8/edit#heading=h.lntg56ljm653)
-  - [PenTest: Resource Plan](https://docs.google.com/document/d/1xFfB-N77_TQr3EIhaebo_2Eoz5i8YmwLHkKlSewy-ck/edit#heading=h.lntg56ljm653)
 
 ### 🏅 Certifications
 
-- [ISC2.org | Certified Information Systems Security Professional (CISSP)](https://www.credly.com/badges/f488948a-3ac6-419e-83d0-1a3e393d0655/public_url)
-- [ISC2.org | Certified in Cybersecurity (CC)](https://www.credly.com/badges/a0fcf802-a2bf-4460-9d05-5daa8bd6464f/public_url)
-- [PMI.org | Project Management Professional (PMP)](https://www.credly.com/badges/7f691464-f58e-4cda-b001-871870ecb398/public_url)
-- [Scrum.org | Professional Scrum Master (PSM I)](https://www.credly.com/badges/fc5f102b-f174-4675-88ff-baf98ae5d4e4/public_url)
+- [ISC2 | Certified Information Systems Security Professional (CISSP)](https://www.credly.com/badges/f488948a-3ac6-419e-83d0-1a3e393d0655/public_url)
+- [ISC2 | Certified in Cybersecurity (CC)](https://www.credly.com/badges/a0fcf802-a2bf-4460-9d05-5daa8bd6464f/public_url)
+- [Microsoft | Security, Compliance, and Identity Fundamentals (SC-900)](https://learn.microsoft.com/api/credentials/share/en-us/Francis-Penir/6630025D0FBC6342?sharingId=B65DDB25E7D67F6F)
+- [PMI | Project Management Professional (PMP)](https://www.credly.com/badges/7f691464-f58e-4cda-b001-871870ecb398/public_url)
+- [Scrum | Professional Scrum Master (PSM I)](https://www.credly.com/badges/fc5f102b-f174-4675-88ff-baf98ae5d4e4/public_url)
 
 ### 📺 YouTube Videos
 
