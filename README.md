@@ -9,15 +9,13 @@ I am a Cloud Security and Cyber Defense expert and my professional focus lies in
   - [Understanding Zero Trust](https://docs.google.com/document/d/1EYBs4wyMOl59KQDn7B6YtznGZ6IDCh0FAu6nd57HcbQ/edit?usp=sharing)
   - [Securing Digital Access by Leveraging IAM](https://docs.google.com/document/d/1S9TJK1jTWDyzqNFcT2qZMeZCxE8cZmBH9FeJ0ZBScgc/edit?usp=sharing)
   - [Rest Assured Case Study](https://docs.google.com/document/d/1wsSK29YEzHoI8g7vMNxRLar9QqflR4WBQl-oCRd3lEo/edit?usp=sharing)
-  - [PenTest: Rules of Engagement](https://docs.google.com/document/d/1j93bt6MnAK8jUw7OVdEb3VE-MCz3uqPcnOyquDGWWqY/edit#heading=h.lntg56ljm653)
-  - [PenTest: Mission Plan](https://docs.google.com/document/d/1uK814iDM4Jxt9-xehDKLQ09ltPErdD_3HtcAvG0TA7I/edit#heading=h.lntg56ljm653)
-  - [PenTest: Operations Plan](https://docs.google.com/document/d/1VNBKHj8Z3R8iaxzhynd8KmZjT1wX9Gb8b_VE76Tkgr8/edit#heading=h.lntg56ljm653)
-  - [PenTest: Resource Plan](https://docs.google.com/document/d/1xFfB-N77_TQr3EIhaebo_2Eoz5i8YmwLHkKlSewy-ck/edit#heading=h.lntg56ljm653)
+- <b>Penetration Testing</b>
+  - [Rules of Engagement](https://docs.google.com/document/d/1j93bt6MnAK8jUw7OVdEb3VE-MCz3uqPcnOyquDGWWqY/edit#heading=h.lntg56ljm653)
+  - [Mission Plan](https://docs.google.com/document/d/1uK814iDM4Jxt9-xehDKLQ09ltPErdD_3HtcAvG0TA7I/edit#heading=h.lntg56ljm653)
+  - [Operations Plan](https://docs.google.com/document/d/1VNBKHj8Z3R8iaxzhynd8KmZjT1wX9Gb8b_VE76Tkgr8/edit#heading=h.lntg56ljm653)
+  - [Resource Plan](https://docs.google.com/document/d/1xFfB-N77_TQr3EIhaebo_2Eoz5i8YmwLHkKlSewy-ck/edit#heading=h.lntg56ljm653)
 
 ### 📊 Project Management & Scrum
-
-- <b>Scrum</b>
-  - [Kanban: Building a Personal Website](https://github.com/users/francis-penir/projects/2)
  
 - <b>Capstone: Google Project Management</b>
   - [Project Charter: Sauce & Spoon](https://docs.google.com/document/d/1qbCvms0JqD7ecJ-4p6uC8npesYgPsxJ-VULnfswgjzs/edit?usp=sharing&resourcekey=0-cr3_GpYn0wd4FY2VFTMFLg)
@@ -28,6 +26,8 @@ I am a Cloud Security and Cyber Defense expert and my professional focus lies in
   - [Project Closeout Report: Ops & Training Plan](https://docs.google.com/document/d/1hL0Z3ineez7LRDbAGNvjdvbiq6A8rriRLbp0Zx_8t08/edit?usp=sharing&resourcekey=0-9vCXuFHupKghdCCsaixgOQ)
   - [Risk Management Plan: Office Green](https://docs.google.com/document/d/1anNknRWKylGK6Lfx48LYPoKQv72rtbcXx0uCW9uJ3bI/edit?usp=sharing)
   - [Project Closeout Report: Sauce & Spoon](https://docs.google.com/document/d/1wz2GL5SGQ6OSXFbRIZhXwBtlWHKlu4teUiPm22NBtKA/edit?usp=sharing)
+- <b>Scrum</b>
+  - [Kanban: Building a Personal Website](https://github.com/users/francis-penir/projects/2)
  
 ### ☁️ Cloud Computing
 - <b>Cloud</b>
