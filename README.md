@@ -7,6 +7,7 @@ I am a Cloud Security and Cyber Defense expert and my professional focus lies in
 - <b>Cybersecurity Program Design</b>
   - [2024 Global Cybersecurity Insights](https://docs.google.com/presentation/d/14B1BEU2jppMRtL90yaFZMuV5Wjevtrd1Ja938nOhX7k/edit?usp=sharing)
   - [Understanding Zero Trust](https://docs.google.com/document/d/1EYBs4wyMOl59KQDn7B6YtznGZ6IDCh0FAu6nd57HcbQ/edit?usp=sharing)
+  - [The Essential Role of Identity Access Management (IAM)](https://docs.google.com/document/d/1S9TJK1jTWDyzqNFcT2qZMeZCxE8cZmBH9FeJ0ZBScgc/edit?usp=sharing)
   - [Rest Assured Case Study](https://docs.google.com/document/d/1wsSK29YEzHoI8g7vMNxRLar9QqflR4WBQl-oCRd3lEo/edit?usp=sharing)
   - [PenTest: Rules of Engagement](https://docs.google.com/document/d/1j93bt6MnAK8jUw7OVdEb3VE-MCz3uqPcnOyquDGWWqY/edit#heading=h.lntg56ljm653)
   - [PenTest: Mission Plan](https://docs.google.com/document/d/1uK814iDM4Jxt9-xehDKLQ09ltPErdD_3HtcAvG0TA7I/edit#heading=h.lntg56ljm653)
