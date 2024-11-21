@@ -8,6 +8,7 @@ I am a Cloud Security and Cyber Defense expert and my professional focus lies in
   - [2024 Global Cybersecurity Insights](https://docs.google.com/presentation/d/14B1BEU2jppMRtL90yaFZMuV5Wjevtrd1Ja938nOhX7k/edit?usp=sharing)
   - [Understanding Zero Trust](https://docs.google.com/document/d/1EYBs4wyMOl59KQDn7B6YtznGZ6IDCh0FAu6nd57HcbQ/edit?usp=sharing)
   - [Securing Digital Access by Leveraging IAM](https://docs.google.com/document/d/1S9TJK1jTWDyzqNFcT2qZMeZCxE8cZmBH9FeJ0ZBScgc/edit?usp=sharing)
+  - [Resilience in Action](https://docs.google.com/document/d/1JeFjaHTR7DTbDcSIVn1KnGNUIkA6f4OXlu2tB-H8IPQ/edit?tab=t.0)
   - [Rest Assured Case Study](https://docs.google.com/document/d/1wsSK29YEzHoI8g7vMNxRLar9QqflR4WBQl-oCRd3lEo/edit?usp=sharing)
 - <b>Penetration Testing</b>
   - [Rules of Engagement](https://docs.google.com/document/d/1j93bt6MnAK8jUw7OVdEb3VE-MCz3uqPcnOyquDGWWqY/edit#heading=h.lntg56ljm653)
