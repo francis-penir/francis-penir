@@ -51,6 +51,7 @@ I am a Cloud Security and Cyber Defense expert and my professional focus lies in
 - [ISC2 | Certified in Cybersecurity (CC)](https://www.credly.com/badges/a0fcf802-a2bf-4460-9d05-5daa8bd6464f/public_url)
 - [Microsoft | Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/Francis-Penir/48DFA2E599052B4D?sharingId=B65DDB25E7D67F6F)
 - [Microsoft | Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-us/Francis-Penir/D125BE812A56B1CE?sharingId=B65DDB25E7D67F6F)
+- [Microsoft | Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/en-us/Francis-Penir/2BC6B9ECA1674E7A?sharingId=B65DDB25E7D67F6F)
 - [Microsoft | Security, Compliance, and Identity Fundamentals (SC-900)](https://learn.microsoft.com/api/credentials/share/en-us/Francis-Penir/6630025D0FBC6342?sharingId=B65DDB25E7D67F6F)
 - [PMI | Project Management Professional (PMP)](https://www.credly.com/badges/7f691464-f58e-4cda-b001-871870ecb398/public_url)
 - [Scrum | Professional Scrum Master (PSM I)](https://www.credly.com/badges/fc5f102b-f174-4675-88ff-baf98ae5d4e4/public_url)
