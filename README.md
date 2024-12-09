@@ -35,6 +35,7 @@ I am a Cloud Security and Cyber Defense expert and my professional focus lies in
 ### ☁️ Cloud Computing
 - <b>Cloud</b>
   - [An Introduction to Cloud Computing](https://docs.google.com/document/d/1fjyrV5Il_j5BpRcyUYarS65IwGro4apru6E4RBYzNPA/edit?tab=t.0)
+  - [Mastering Containerization](https://docs.google.com/document/d/1-nlUFyNYiAYN89R9s-4uhEKxNIveQ7q2ODnqn5Js8xI/edit?tab=t.0)
   - [On-prem IP Telephony Migration to Skype for Business](https://docs.google.com/document/d/1VXv1O5-lf-_TGdhDcRhAaScRV64OJGcNGYg-LY8Q9sU/edit?usp=sharing)
 <div>
   
